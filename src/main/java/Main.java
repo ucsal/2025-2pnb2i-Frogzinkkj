@@ -5,6 +5,6 @@ public class Main {
 		OfficeService svc = new OfficeService(new SimplePrinter());
 		// Estado inicial: vai lançar UnsupportedOperationException por causa do scan
 		// desnecessário
-		svc.printReport("Relatório do Dia");
+		svc.printReport("Relatório do Diaa");
 	}
 }
